@@ -1,6 +1,6 @@
-import AboutPic from '../assets/About.png'
 import { ABOUT_TEXT } from '../constants'
 import { motion } from 'framer-motion'
+import AboutPic from '../assets/About.png'
 
 export default function About() {
   return (

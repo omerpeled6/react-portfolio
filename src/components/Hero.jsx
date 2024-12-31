@@ -1,6 +1,6 @@
 import { HERO_CONTENT } from '../constants'
-import Omerpeled from '../assets/omer.png'
 import { motion } from 'framer-motion'
+import Omerpeled from '../assets/Omer.png'
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
