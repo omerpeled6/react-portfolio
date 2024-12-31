@@ -1,7 +1,7 @@
 import { FaLinkedin } from 'react-icons/fa'
 import { FaGithub } from 'react-icons/fa'
 import { FaDiscord } from 'react-icons/fa'
-import CV from '../assets/CV.pdf'
+import CV from '../../public/CV.pdf'
 
 export default function Navbar() {
   return (

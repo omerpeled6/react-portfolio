@@ -1,5 +1,5 @@
-import NBA from '../assets/projects/NBA.png'
-import TAXI from '../assets/projects/taxi.jpeg'
+import NBA from '../../public/projects/nba.png'
+import TAXI from '../../public/projects/taxi.jpeg'
 
 export const HERO_CONTENT = `I am a hardworking and ambitious full-stack developer with a B.Sc. in Computer Science from HIT Holon. With strong self-learning abilities and a proven capacity to manage multiple projects, I excel in both team-oriented and independent work environments. Skilled in modern technologies like React, Next.js, Node.js, and MongoDB, I am passionate about solving complex challenges and delivering impactful solutions. My goal is to leverage my technical expertise to create innovative web applications that provide exceptional user experiences and drive business success.`
 export const ABOUT_TEXT = `👋 Hi, I’m Omer Peled!
