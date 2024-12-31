@@ -1,6 +1,6 @@
 import { HERO_CONTENT } from '../constants'
 import { motion } from 'framer-motion'
-import Omerpeled from '../assets/Omer.png'
+import AboutPic from '../assets/About.png'
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
@@ -51,7 +51,7 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 1.2 }}
               className="max-w-full rounded-2xl object-contain"
               style={{ maxWidth: '400px' }}
-              src={Omerpeled}
+              src={AboutPic}
               alt="Omer Peled"
             />
           </div>
