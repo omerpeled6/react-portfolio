@@ -19,7 +19,7 @@ export default function About() {
           <div className="flex items-center justify-center">
             <img
               className="max-w-full  rounded-2xl object-contain"
-              style={{ maxWidth: '450px' }}
+              style={{ maxWidth: '400px' }}
               src={AboutPic}
               alt="Omer Peled"
             />
